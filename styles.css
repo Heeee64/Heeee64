@@ -1,0 +1,23 @@
+
+body{
+    background-image: url("images/back.png");
+}
+p{
+    color: white;
+    stroke: black;
+    object-position: right;
+}
+h1{
+    color: white;
+    stroke: black;
+    object-position: right bottom;
+}
+h3{
+    color: white;
+    stroke: black;
+}
+
+img{
+    border: 3px solid rgb(235, 173, 93);
+}
+
