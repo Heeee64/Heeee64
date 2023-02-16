@@ -7,12 +7,12 @@ h1 {
   text-align: center;
 }
 
-.a {
+a {
   position: absolute;
   bottom: 0;
 }
 
-.p {
+p {
   text-align: center;
   font-size: 100px;
 }
