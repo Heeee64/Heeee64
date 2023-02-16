@@ -1,3 +1,2 @@
-Hello, its me Heeee64 nothing interesting here
-
+Hello
 i am trying to learn html and css 💀
