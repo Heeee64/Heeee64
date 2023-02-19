@@ -5,14 +5,17 @@ body{
 
 h1 {
   text-align: center;
+  background-color: rgb(255, 0, 0);
 }
 
 a {
   position: absolute;
   bottom: 0;
+  background-color: rgb(255, 0, 0);
 }
 
 p {
   text-align: center;
   font-size: 100px;
+  background-color: rgb(255, 0, 0);
 }
